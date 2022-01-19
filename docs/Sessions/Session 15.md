@@ -1,6 +1,6 @@
 ---
 category: Sessions
-title: "Aftermath"
+title: "Session 15: Aftermath"
 description: "The party regrouped with the townfolk at Bronzewing Brewery."
 tags: Sessions
 share: true

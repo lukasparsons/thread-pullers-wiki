@@ -26,5 +26,3 @@ If you want, your task to familiarize yourself with markdown and to help the sit
 - Background story (Whatever you are comfortable sharing with the group)
 
 If you guys help me make this an awesome and unique resource for us, there may be some benefits in game. Who knows? Perhaps a powerful NPC will approach you with a magical item, asking you to keep it safe until they return for it sometime in the future. Or perhaps the party will stumble across a wizard's tower that has appeared in a location it wasn't previously that is filled with mystery, treasure and adventure. In short, I will find a way to reward the group for their participation in making this site really awesome.
-
-https://lukasparsons.github.io/thread-pullers-wiki/Welcome/
