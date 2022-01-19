@@ -5,6 +5,7 @@ campaign: "Storm King's Thunder"
 date: 12-03-2021
 game_date: [1520-04-13]
 aliases: [SKT]
+share: true
 ---
 QuickLinks: [[TODO|Ongoing TODO list]] | [[Dice Roller]] | [[Strokes of Genius]] | [[Data to Link]] | [[House Rules]] | [[Quick Info]]
 
