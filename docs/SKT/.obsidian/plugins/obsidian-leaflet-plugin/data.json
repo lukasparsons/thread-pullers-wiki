@@ -1,0 +1,369 @@
+{
+  "mapMarkers": [
+    {
+      "id": "[goldenfields-map]",
+      "lastAccessed": 1638848649803,
+      "markers": [
+        {
+          "id": "ID_2b98dae97969",
+          "type": "default",
+          "loc": [
+            -4.413893772551194,
+            1.2392283026584971
+          ],
+          "link": "Goldenfields Index#G1. Gatehouse",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b88b69cb4bd8",
+          "type": "default",
+          "loc": [
+            -3.3512098352725213,
+            2.6110645798193186
+          ],
+          "link": "Goldenfields Index#G8. Northfurrow's End",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08cab9dbaab9",
+          "type": "default",
+          "loc": [
+            -4.486886798235035,
+            2.698961135899122
+          ],
+          "link": "Goldenfields Index#G13 Wheat Fields",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8b83aeac97b",
+          "type": "default",
+          "loc": [
+            -3.8609098552747088,
+            2.275067876047711
+          ],
+          "link": "Goldenfields Index#G6. Town",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca4b39aacbc9",
+          "type": "default",
+          "loc": [
+            -4.56403812021201,
+            2.001764989595945
+          ],
+          "link": "Goldenfields Index#G4. Grain Towers",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_698b293b782b",
+          "type": "default",
+          "loc": [
+            -3.7671549976850653,
+            0.41622935062964195
+          ],
+          "link": "Goldenfields Index#G2. Watch Posts",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_293ada0a09cb",
+          "type": "default",
+          "loc": [
+            -4.093488248064418,
+            2.532151301102505
+          ],
+          "link": "Goldenfields Index#G7. Harvesthome Abbey",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b2a388b0b68",
+          "type": "default",
+          "loc": [
+            -4.25363538012976,
+            1.4657668268235429
+          ],
+          "link": "Goldenfields Index#G3. Earth Mother's Bounty",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08085b0a69d8",
+          "type": "default",
+          "loc": [
+            -2.288983273175453,
+            2.110284219546519
+          ],
+          "link": "Bronzewing Brewery",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79cb681ac928",
+          "type": "default",
+          "loc": [
+            -2.175700868502505,
+            1.809579184570151
+          ],
+          "link": null,
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_896ae969081b",
+          "type": "default",
+          "loc": [
+            -2.1444505499720363,
+            3.0202098448646186
+          ],
+          "link": null,
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ab9696a0b3a",
+          "type": "default",
+          "loc": [
+            -2.9882091502946837,
+            1.4268636855093193
+          ],
+          "link": "Goldenfields Index#G4. Grain Towers",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_abe9db69badb",
+          "type": "default",
+          "loc": [
+            -4.0800427719327415,
+            2.133308186701581
+          ],
+          "link": "Lifferlas",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbaa98a928eb",
+          "type": "default",
+          "loc": [
+            -4.937365276870803,
+            3.3609479673286113
+          ],
+          "link": "Giants Attack Goldenfields",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ae87a6ab898",
+          "type": "default",
+          "loc": [
+            -3.4210257009722636,
+            1.993956831900173
+          ],
+          "link": "Goldenfields Index#G5. Livestock Fields",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a6b9b48fb5a",
+          "type": "default",
+          "loc": [
+            -4.53359794693941,
+            2.128148965249228
+          ],
+          "link": "Hill Howlers",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_994abbfa9b69",
+          "type": "default",
+          "loc": [
+            -3.9125027943197415,
+            2.34301841218178
+          ],
+          "link": "Eye Stabbers",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_490b6acb9a18",
+          "type": "default",
+          "loc": [
+            -4.1625033588962115,
+            1.7648242640723673
+          ],
+          "link": "Goldenfields Index#G5. Livestock Fields",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca0b2ab82ae9",
+          "type": "default",
+          "loc": [
+            -4.213742567675019,
+            1.871508288340534
+          ],
+          "link": "Moon Biters",
+          "layer": "%5B%5Bgoldenfields-1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Goldenfields/Goldenfields.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#2fc694",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "4.3.5",
+  "version": {
+    "major": 4,
+    "minor": 3,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial"
+}
