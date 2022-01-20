@@ -2,7 +2,7 @@
 category: Index
 title: Welcome
 description: Welcome to the Thread-Pullers Wiki!
-tags: Welcome
+tags:
 share: true
 ---
 Hello, adventurers!
