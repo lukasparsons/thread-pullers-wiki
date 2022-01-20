@@ -7,9 +7,11 @@ share: true
 ---
 # Session 15: Aftermath
 ## Session Summary
+```ad-abstract
 In this session the party helped a young brother and sister who were lost from their parents, reunited with the surviving townspeople of Goldenfields at Bronzewing Brewery, raised their spirits with song, and gathered information that will better inform their next steps.
 
 You gained more information about the Soul Prism from Naxene Drathkala, spoke with the devil Baruda within the prism about his role in recent events, and learned that Shalvus Martholio is an agent of the Zhentarim.
+```
 
 Each of the NPCs who fought alongside you in the defense of Goldenfields were very impressed with your capabilities and they each approached you with opportunities to help them.
 
