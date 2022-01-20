@@ -1,5 +1,5 @@
 ---
-category: Welcome
+category: Index
 title: Welcome
 description: Welcome to the Thread-Pullers Wiki!
 tags: Welcome
