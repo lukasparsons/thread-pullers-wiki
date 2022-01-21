@@ -254,7 +254,7 @@ Material give you the possibility to add SEO tags with :
 So, the final frontmatter template is :
 ```yaml
 
-This is a test commit.
+This is another test commit.
 ---
 title:
 share:
