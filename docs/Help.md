@@ -19,7 +19,7 @@ There are many different ways. We can decide as a group on a "standard" way of d
 However, feel free to share your notes with me through discord (just drag and drop the file into chat) or email them to me at lukascparsons@gmail.com.
 
 ### Q: What is markdown?
-Markdown is simple once you use it a little bit. It is simply a way of taking notes that make them automatically look aesthetically pleasing and structured. I'm using it right now! I'll provide a couple examples:
+Markdown is simple once you use it a little bit. Simply put, it is a way of taking notes that makes them automatically look aesthetically pleasing and structured. I'm using it right now! I'll provide a couple examples:
 ```
 # This is a heading
 ## This is a smaller heading (you can keep going up until ######)

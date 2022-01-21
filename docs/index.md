@@ -5,7 +5,7 @@ description: Welcome to the Thread-Pullers Wiki!
 tags:
 share: true
 ---
-# Welcome Thread-Pullers,
+# Welcome, Thread-Pullers
 This is the wiki for our SKT Campaign. Here you will see several things:
 - Adventure Log
 - NPC information
