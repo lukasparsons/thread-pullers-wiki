@@ -254,7 +254,7 @@ Material give you the possibility to add SEO tags with :
 So, the final frontmatter template is :
 ```yaml
 
-This should be found by the bot.
+This should be automatically discovered by the bot.
 ---
 title:
 share:
