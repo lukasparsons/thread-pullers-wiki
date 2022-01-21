@@ -253,7 +253,6 @@ Material give you the possibility to add SEO tags with :
 ## Template
 So, the final frontmatter template is :
 ```yaml
-Test
 ---
 title:
 share:
