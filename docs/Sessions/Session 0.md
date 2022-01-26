@@ -14,7 +14,7 @@ Resolute Du'Coreiseuse, a paladin of helm has begun his journey of raising money
 
 Adonis Jahran is a traveling monk who is heading south along the High Road, making his way to Nightstone to investigate the strange monolith in the center of the village from which it gains its name.
 
-Lyaon Ascelin and Astrid, a human ranger and an elven druid respectively are currently on the run and fleeing west from the forest when they exit the tree line and stumble upon the wonderous camp.
+Lycaon Ascelin and Astrid, a human ranger and an elven druid respectively are currently on the run and fleeing west from the forest when they exit the tree line and stumble upon the wonderous camp.
 
 During the show, a bear that was being forced to perform before it was properly trained broke out of its restraints and began to rampage, gravely wounding Trickity himself. A young girl by the name of Mox Swinton was singing balanced atop a tower of gnomes during the performance and began to fall. The group of adventurers were able to band together to settle the beast and save the girl from falling to her death. Ti after speaking to Earl Greyspine, the animal trainer, learned that Earl didn't want to send the Bear out to perform as she wasn't ready yet, but Trickity ordered it to be done.
 

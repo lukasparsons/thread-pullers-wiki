@@ -10,7 +10,7 @@ share: true
 
 The party makes their way to the dripping caves, encountering a couple new companions along the way, a dragonborn named Haffyd, and a Tiefling named Nethhala agree to assist the party in their goal of rescuing the villagers of Nightstone.
 
-Upon entering the caves you were attacked by a mated pair of gres that had befriended the goblins as well as the goblins that were watching the main entrance.
+Upon entering the caves you were attacked by a mated pair of ogres that had befriended the goblins as well as the goblins that were watching the main entrance.
 
 One of the goblins retreated to the entrance to one of the chambers and tried to convince you not to enter as there was "nothing of value in there".
 
