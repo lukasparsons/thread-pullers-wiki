@@ -2,6 +2,21 @@ site_name: Thread Pullers Wiki
 site_description: A collection of campaign information for the Adventuring Party known as the Thread-Pullers
 site_url: https://www.dmluke.net
 
+
+nav: 
+    - Sessions:
+        - 'Session 0.md'
+        - 'Session 1.md'
+        - 'Session 2.md'
+        - 'Session 3.md'
+        - 'Session 4.md'
+        - 'Session 5.md'
+        - 'Session 6.md'
+        - 'Session 7.md'
+        - 'Session 12.md'
+        - 'Session 13.md'
+        - 'Session 14.md'
+        - 'Session 15.md'
 theme:
     name: 'material'
     logo: assets/logo/favicons.png
