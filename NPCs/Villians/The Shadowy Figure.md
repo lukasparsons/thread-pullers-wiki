@@ -7,8 +7,9 @@ His motives are still unknown to the party, but he was seen traveling with an Ol
 
 - First seen on the road leading to the Bronsson Homestead in Session 10
 - Vanquished during the Attack on Goldenfields by Ti, Resolute, and Haffyd. 
+- Vanquished for a second time in [[Session 49]] at the Temple of the [[Seventh Sect]]
 
-![[shadowyFigure.jpg]]
+![[shadowyFigure.jpg|400]]
 
 An image of Aadhan Du'Coreiseuse from the last time Resolute saw him at Helm's Hold.
-![[aadhan_ducoreiseuse.jpg]]
+![[aadhan_ducoreiseuse.jpg|400]]
