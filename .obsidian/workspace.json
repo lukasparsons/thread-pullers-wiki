@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Order of the Gauntlet/Helm's Hold/Wayland Du'Coreiseuse.md",
+                "file": "NPCs/Allies/Captain Delsephine Lightflaw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wayland Du'Coreiseuse"
+              "title": "Captain Delsephine Lightflaw"
             }
           }
         ]
@@ -165,11 +165,23 @@
   },
   "active": "80edc3b44bf5b38f",
   "lastOpenFiles": [
+    "NPCs/Politicians/Yartar/Lord Khaspere Drylund.md",
+    "NPCs/Allies/Captain Delsephine Lightflaw.md",
+    "NPCs/Allies",
+    "NPCs/Politicians/Yartar/Waterbaron Nestra Ruthiol.md",
+    "NPCs/Lord's Alliance/Harshnag the Grimm.md",
+    "NPCs/Politicians/Yartar",
+    "NPCs/Politicians/Untitled.md",
+    "NPCs/Politicians",
+    "NPCs/Lord's Alliance/Blackstaff Vajra Safahr.md",
+    "NPCs/Lord's Alliance",
+    "assets/logo/LOGO_SEO.png",
+    "assets/logo/favicons.png",
+    "NPCs/Order of the Gauntlet/Helm's Hold/Wayland Du'Coreiseuse.md",
     "NPCs/Order of the Gauntlet/Helm's Hold/Sir Rhadasam Du'Coreiseuse.md",
     "NPCs/Order of the Gauntlet/Helm's Hold/Madame Rhonrea Du'Coreiseuse.md",
     "NPCs/Order of the Gauntlet/Helm's Hold/Lady Sydalla Du'Coreiseuse.md",
     "NPCs/Order of the Gauntlet/Helm's Hold/Dr. Latimer Du'Coreiseuse.md",
-    "NPCs/Order of the Gauntlet/Helm's Hold/Wayland Du'Coreiseuse.md",
     "Locations/Cities/Helm's Hold/Index.md",
     "NPCs/Order of the Gauntlet/Helm's Hold",
     "NPCs/Zhentarim",
@@ -191,18 +203,6 @@
     "Locations/Cities/Helm's Hold/Taverns/Venturer's Rest.md",
     "Locations/Cities/Helm's Hold/Taverns/Hungry Flame.md",
     "Locations/Cities/Helm's Hold/Places of Interest",
-    "Locations/Cities/Helm's Hold/Shrines and Temples",
-    "Locations/Cities/Helm's Hold/Wards",
-    "Locations/Cities/Helm's Hold/Taverns",
-    "Locations/Cities/Helm's Hold/Untitled.md",
-    "Locations/Cities/Helm's Hold",
-    "Locations/Cities/Helm's Hold.md",
-    "Locations/Cities/Untitled.md",
-    "Sessions/Session 21 - 30/Session 25.md",
-    "Sessions/Session 21 - 30/Session 26.md",
-    "Sessions/Session 21 - 30/Session 24.md",
-    "assets/logo/LOGO_SEO.png",
-    "assets/logo/favicons.png",
     "assets/img/shadowyFigure.jpg",
     "assets/img/aadhan_ducoreiseuse.jpg"
   ]
