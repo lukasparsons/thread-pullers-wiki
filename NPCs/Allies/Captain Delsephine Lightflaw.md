@@ -16,4 +16,99 @@
 
 
 
-### 
+### Crew of the Red Lady
+##### Nyzroth Kevadirtinu
+**Cook**
+101 y/o male Firbolg
+Extremely long, straight auburn hair shaved on the right side and brown eyes.
+He has soft, dirty, grey skin and fur.
+He stands 8'2" tall and has a beefy build, and a septum piercing with a large silver ring.
+He rolls his "R"s profusely
+
+Can't Keep a Secret
+Vegetarian
+Just went for a walk one day, got lost, and could never find his way home.
+He likes reading adventure books. He thinks what he does is boring and dreams of "real adventure".
+He always thinks what he's doing is boring.
+##### Brassik
+**Gunner**
+47 year old malse stout halfling
+
+Long brown hair tied into a ponytail behind his head and bright blue eyes.
+Smooth gray skin.
+3'8" tall and has an athletic build.
+He has a sharp, forgettable face.
+He has two piercings on his left eyebrow.
+
+Bipolar
+Takes everything at face-value
+Knows all there is to know about farming
+Totally oblivious to etiquette and social expectations.
+Constant wanderlust and is unable to live at the same place for more thana  few months.
+
+##### Laz
+**Quarter Master**
+38 year old male human
+Short straight red hair and grey eyes.
+Soft brown skin.
+Oval, average face with a long braided beard.
+He has a complicated piercing on his nose and a piercing on his left ear.
+
+Discretely worships Lathander.
+He is very benevolent.
+He only talks in whispers.
+He intermittently misquotes proverbs.
+##### Oriskus
+**Carpenter**
+35 year old male human
+Short curled, auburn hair and grey eyes.
+He has rough pink skin 
+Stand 5'5" tall and has a muscular build
+
+Forgettable face with a mustache wrapped in some sort of twine.
+He has a tattoo of a winged stag on his back.
+The wings of the tattoo can be seen above his shirt reaching around his neck.
+
+Hates fair play.
+Very greedy.
+Intermittently asks for help.
+Always joking, even at inappropriate times.
+
+##### Perella
+**First Mate**
+25 year old Human Female, rugged pale skin.
+Short, straight black hair and pale green eyes.
+She has a triangular, very stunning face.
+Gestures profusely during a conversation.
+
+She is a hopeless romantic.
+She is very optimistic.
+She intermittently uses terms from a different language as she speaks.
+She uses very foul language.
+##### Tralt
+**Powder Monkey**
+14 year old male
+Cropped, wavy grey hair and green eyes.
+Pale white skin.
+5'3" tall and has an athletic build.
+Square, very common face.
+Slightly long nails
+
+He is obsessed with the cult of dragons and takes his position way too seriously.
+Ever since he met Klauth, he is fully committed to the cult.
+He sporadically thinks aloud.
+He despises the aristocracy.
+
+##### Zalthia
+**Navigator**
+75 year old female human
+bald head and blue eyes
+soft brown skin
+5'8" tall and has a muscled build
+Unfinished tribal tattoo on her right hand and a tribal tattoo on her left hand.
+She gave the tattoos to herself, had a stroke during the second one, and forgot how to give tattoos.
+
+Gets bored easily
+Obstinate
+Doesn't bathe
+Thinks that dragons are beautiful and majestic creatures.

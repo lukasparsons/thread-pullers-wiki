@@ -1,0 +1,1 @@
+![[Vajra_Safahr_wow.webp|350]]
