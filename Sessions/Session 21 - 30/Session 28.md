@@ -8,9 +8,9 @@ He asked the party to join him in his quest to find this beast.
 
 In a glade within the Lurkwood, a young elven maiden was found massacred atop a large rock in the clearing. A grotesquely malformed werewolf alpha prowled the area, clearly in pain and distress and very territorial. 
 
-Convinced that his quarry had been found, Ventis fought alongside the party to bring down the beast. Upon investigating the scene following the battle, the party discovered that the elven woman was none other than Lady Astrid Rosella, the elven druid woman that had briefly joined the party during their experience in [[Session 00|Trickity's Traveling Troop of Wonders]]. 
+Convinced that his quarry had been found, Ventis fought alongside the party to bring down the beast. Upon investigating the scene following the battle, the party discovered that the elven woman was none other than **Lady Astrid Rosewillow**, the elven druid woman that had briefly joined the party during their experience in [[Session 00|Trickity's Traveling Troop of Wonders]]. 
 
-Additionally, Adonis was bitten by the wolf and was cursed with lycanthropy. Before Adonis could grasp what this meant for him and his quest for never-ending vitality, Nethhala slapped him with a Remove Curse.
+Additionally, **Adonis was bitten by the wolf** and was cursed with lycanthropy. Before Adonis could grasp what this meant for him and his quest for never-ending vitality, Nethhala slapped him with a Remove Curse.
 
 The identity of the lycanthrope was discovered through the journal of Astrid which retold the story of how the duo had fled north from her tribe who did not support the romance between them.
 
